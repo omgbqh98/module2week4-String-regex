@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Check-Ten-Tk/Check-Ten-Tk.iml" filepath="$PROJECT_DIR$/Check-Ten-Tk/Check-Ten-Tk.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-CheckEmail/TH-CheckEmail.iml" filepath="$PROJECT_DIR$/TH-CheckEmail/TH-CheckEmail.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-CrawlDanhSáchBàiHát/TH-CrawlDanhSáchBàiHát.iml" filepath="$PROJECT_DIR$/TH-CrawlDanhSáchBàiHát/TH-CrawlDanhSáchBàiHát.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2week4(String&amp;Regex).iml" filepath="$PROJECT_DIR$/module2week4(String&amp;Regex).iml" />
